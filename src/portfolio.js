@@ -10,26 +10,26 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "Hrishi",
-  logo_name: "hrishi.p()",
-  nickname: "hrishi1999 / picleric",
-  full_name: "Hrishi Patel",
+  title2: "Meet",
+  logo_name: "meet.p()",
+  nickname: "mit",
+  full_name: "Meet Patel",
   subTitle:
     "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1IQge4pNhyj-RD2OOnEMrRPMODDUWeVDy/view?usp=sharing",
-  mail: "mailto:hrishipatel99@gmail.com",
+    "Unknown",
+  mail: "mailto:meetpatel.mn@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hrishi1999",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
-  gmail: "hrishipatel99@gmail.com",
+  github: "https://github.com/meetpateltech",
+  linkedin: "https://www.linkedin.com/in/meet-patel-6716b5242",
+  gmail: "meetpatel.mn@gmail.com",
   gitlab: " ",
   facebook: " ",
-  twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
+  twitter: "https://twitter.com/mn_google",
+  instagram: "https://www.instagram.com/patelmn23",
 };
 
 const skills = {
@@ -314,17 +314,17 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "SAL Engineering and Technical Institute",
+      title: "Pandit Deendayal Energy University",
       subtitle: "B.Tech. in Computer Engineering",
       logo_path: "sal.png",
-      alt_name: "SETI",
-      duration: "2017 - 2021",
+      alt_name: "PDEU",
+      duration: "2020 - 2024",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "⚡ I have also completed various online courses for ML/DL, Web Development, Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
       ],
-      website_link: "https://www.sal.edu.in/",
+      website_link: "https://www.pdpu.ac.in/",
     },
   ],
 };
@@ -336,7 +336,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://coursera.org/share/737a9587023c666b8e6cb303157aaeba",
+        "",
       alt_name: "deeplearning.ai",
       color_code: "#47A048",
     },
@@ -345,7 +345,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/FM5AKEZA9NUY",
+        "",
       alt_name: "deeplearning.ai",
       color_code: "#F6B808",
     },
@@ -354,7 +354,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/U8BLDNUT9UUM",
+        "",
       alt_name: "deeplearning.ai",
       color_code: "#2AAFED",
     },
@@ -363,7 +363,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/YLC25SJQKH3Y",
+        "",
       alt_name: "deeplearning.ai",
       color_code: "#E2405F",
     },
@@ -372,7 +372,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/72KY93DT82MP",
+        "",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
@@ -381,7 +381,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/25JXRB2RWHRX",
+        "",
       alt_name: "Google",
       color_code: "#7A7A7A",
     },
@@ -390,7 +390,7 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/PKR9M9LQ3JWC",
+        "",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
@@ -398,7 +398,7 @@ const certifications = {
       title: "Android Developer Nanodegree",
       subtitle: "Part of Google India Scholarship Program",
       logo_path: "100.png",
-      certificate_link: "https://graduation.udacity.com/confirm/HLE7K5V3",
+      certificate_link: "",
       alt_name: "Google",
       color_code: "#C5E2EE",
     },
